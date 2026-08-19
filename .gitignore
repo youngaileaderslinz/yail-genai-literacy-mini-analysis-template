@@ -1,0 +1,18 @@
+# Data — never commit the dataset
+data/*.csv
+data/*.xlsx
+data/*.parquet
+data/*.sav
+
+# Submission archives
+*.zip
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
