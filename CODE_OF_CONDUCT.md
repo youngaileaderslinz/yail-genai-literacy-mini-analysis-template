@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Young AI Leaders is a community, and this assignment is part of how people join it. We
+Young AI Leaders Linz is a community, and this assignment is part of how people join it. We
 want everyone taking part — candidates, reviewers, and the Software & Research team — to
 have a straightforward and respectful experience.
 

@@ -1,6 +1,6 @@
 # YAIL GenAI Literacy — Mini Data Exploration
 
-A short, practical data-exploration task for people interested in joining the Young AI Leaders Software & Research team.
+A short, practical data-exploration task for people interested in joining the Young AI Leaders Linz Software & Research team.
 
 ## About
 
@@ -141,7 +141,7 @@ as responsible handling, not as a failure.
 
 ## About Young AI Leaders Linz
 
-Young AI Leaders is a community hub in Austria building practical AI capability through hands-on projects, events, and collaboration. The Software & Research team works data-first on real projects, applied research, and publications — turning survey and product data into evidence people can act on.
+Young AI Leaders Linz is a community hub in Austria building practical AI capability through hands-on projects, events, and collaboration. The Software & Research team works data-first on real projects, applied research, and publications — turning survey and product data into evidence people can act on.
 
 We expect everyone involved with this repository to follow our [Code of Conduct](CODE_OF_CONDUCT.md). The materials here are © Young AI Leaders Linz — see [LICENSE.md](LICENSE.md).
 

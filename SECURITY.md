@@ -45,6 +45,6 @@ process above.
 
 - Open a public GitHub issue describing an exposure — that can make the problem worse
 - Include actual data rows, screenshots of the data, or personal information in your report
-- Attempt to test the security of Young AI Leaders systems or accounts
+- Attempt to test the security of Young AI Leaders Linz systems or accounts
 
 The full set of obligations attached to the dataset is in [DATA_USE.md](DATA_USE.md).

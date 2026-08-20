@@ -56,11 +56,6 @@ figures. `report.md` should make sense on its own, without running the code.
 Two to four in total, each with a clear title, readable labels, and one sentence on why
 that chart suited the question.
 
-**What if I find missing values? Should I just drop those rows?**
-Please do not drop or impute them automatically. Look at where the missingness occurs,
-decide what to do, and explain your reasoning. How you handle this is one of the more
-informative parts of the submission.
-
 **Do I have to take the survey first?**
 No, it is optional. It takes about 15 minutes and usually makes the recommendations
 section much easier to write, but skipping it carries no disadvantage. If you do take it,
@@ -72,8 +67,10 @@ sample, and here is why that might be" is a strong answer. A dressed-up result t
 does not support is not.
 
 **Can I bring in outside data to enrich the analysis?**
-No. Combining this dataset with external sources is not permitted — see
-[DATA_USE.md](DATA_USE.md).
+No, please do not actually combine this dataset with external sources — see
+[DATA_USE.md](DATA_USE.md). If a specific external dataset or source comes to mind that
+you think could meaningfully enrich this kind of analysis, though, we would like to hear
+about it — mention the idea in your report rather than acting on it.
 
 ## Submitting
 

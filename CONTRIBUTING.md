@@ -1,7 +1,7 @@
 # About This Repository
 
 This repository is an **assignment template**, not an open-source project. It exists so
-that candidates invited to the Young AI Leaders GenAI Literacy mini-analysis have a
+that candidates invited to the Young AI Leaders Linz GenAI Literacy mini-analysis have a
 consistent starting point, and so that anyone curious about our process can see exactly
 what we ask for.
 
