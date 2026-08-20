@@ -11,8 +11,8 @@ have a straightforward and respectful experience.
   unsure about. Report your findings as you actually found them.
 - **Credit others.** If an idea, method, or line of code came from a tutorial, a colleague,
   or an AI assistant, say so. Attribution costs nothing and is never held against you.
-- **Respect confidentiality.** The survey data belongs to the people who answered it.
-  Handle it as described in [DATA_USE.md](DATA_USE.md).
+- **Respect confidentiality.** Handle the survey data as described in
+  [DATA_USE.md](DATA_USE.md).
 - **Ask when something is unclear.** A question is not a weakness. We would rather answer
   it than review work built on a misunderstanding.
 
@@ -45,8 +45,8 @@ We take reports seriously and we do not penalise people for making them in good 
 
 Depending on what happened, we may ask someone to change their behaviour, decline to
 continue with an application, or end someone's participation in the community. Breaches of
-confidentiality or of research integrity are the most serious and are handled with the
-study's academic supervisors.
+confidentiality or of research integrity are the most serious and are handled by the
+Software & Research team.
 
 ---
 
