@@ -139,10 +139,10 @@ If the data is ever exposed by accident — a public push, a shared link, a lost
 tell us immediately. [SECURITY.md](SECURITY.md) explains how. Reporting quickly is treated
 as responsible handling, not as a failure.
 
-## About Young AI Leaders
+## About Young AI Leaders Linz
 
 Young AI Leaders is a community hub in Austria building practical AI capability through hands-on projects, events, and collaboration. The Software & Research team works data-first on real projects, applied research, and publications — turning survey and product data into evidence people can act on.
 
-We expect everyone involved with this repository to follow our [Code of Conduct](CODE_OF_CONDUCT.md). The materials here are © Young AI Leaders — see [LICENSE.md](LICENSE.md).
+We expect everyone involved with this repository to follow our [Code of Conduct](CODE_OF_CONDUCT.md). The materials here are © Young AI Leaders Linz — see [LICENSE.md](LICENSE.md).
 
 Questions about this task: **office@youngaileaderslinz.at**
