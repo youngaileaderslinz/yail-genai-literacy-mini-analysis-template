@@ -25,7 +25,7 @@ Publishing them openly is **not** a grant of a licence to reuse them.
 - Remove or obscure attribution to Young AI Leaders Linz
 
 Requests for permission are welcome and are usually straightforward — write to
-**office@youngaileaderslinz.at** and tell us what you would like to do.
+**team@youngaileaderslinz.at** and tell us what you would like to do.
 
 ## Your submission
 

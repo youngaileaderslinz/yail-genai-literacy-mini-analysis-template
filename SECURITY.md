@@ -7,7 +7,7 @@ separately.
 
 ## Report an exposure immediately
 
-**Contact: office@youngaileaderslinz.at**
+**Contact: team@youngaileaderslinz.at**
 
 Write to us straight away if any of the following happens, or if you think it might have:
 
@@ -38,7 +38,7 @@ your name in connection with an incident you report.
 ## Problems with this repository
 
 For a broken link, an error in the documentation, or a mistake in the data dictionary,
-email **office@youngaileaderslinz.at**. These are not urgent and do not need to follow the
+email **team@youngaileaderslinz.at**. These are not urgent and do not need to follow the
 process above.
 
 ## Please do not

@@ -27,14 +27,14 @@ your own **private** repository. See [DATA_USE.md](DATA_USE.md).
 Start with [README.md](README.md), then read [DATA_USE.md](DATA_USE.md) before touching
 the data. Most practical questions are already answered in the [FAQ](FAQ.md).
 
-If your question is not covered there, email **office@youngaileaderslinz.at** rather than
+If your question is not covered there, email **team@youngaileaderslinz.at** rather than
 opening an issue — questions about your application are handled privately, and issues on
 this repository are public.
 
 ## If you have spotted a genuine problem
 
 If you find a factual error, a broken link, or a mistake in the data dictionary, we would
-genuinely like to know. Email **office@youngaileaderslinz.at** with a short description.
+genuinely like to know. Email **team@youngaileaderslinz.at** with a short description.
 Noticing something wrong is never held against a candidate.
 
 For anything involving accidental exposure of the data, follow

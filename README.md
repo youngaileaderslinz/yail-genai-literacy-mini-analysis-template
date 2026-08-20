@@ -145,4 +145,4 @@ Young AI Leaders Linz is a community hub in Austria building practical AI capabi
 
 We expect everyone involved with this repository to follow our [Code of Conduct](CODE_OF_CONDUCT.md). The materials here are © Young AI Leaders Linz — see [LICENSE.md](LICENSE.md).
 
-Questions about this task: **office@youngaileaderslinz.at**
+Questions about this task: **team@youngaileaderslinz.at**

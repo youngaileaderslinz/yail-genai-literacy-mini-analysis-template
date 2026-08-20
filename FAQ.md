@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-If your question is not answered here, email **office@youngaileaderslinz.at**.
+If your question is not answered here, email **team@youngaileaderslinz.at**.
 
 ## The data
 
@@ -10,7 +10,7 @@ You receive a restricted download link in your invitation email. Save the file a
 `data/genai_literacy_candidate_data.csv` — the templates assume that exact path.
 
 **I did not receive a link, or the link does not work.**
-Email **office@youngaileaderslinz.at** and we will sort it out. Do not ask another
+Email **team@youngaileaderslinz.at** and we will sort it out. Do not ask another
 candidate to send you their copy.
 
 **Can I put the data in my own repository?**

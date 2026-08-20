@@ -35,7 +35,7 @@ submissions, interviews, and any YAIL space where the work is discussed.
 ## Reporting a concern
 
 If you experience or witness behaviour that falls short of this, contact
-**office@youngaileaderslinz.at**. Reports are read by the Software & Research team and
+**team@youngaileaderslinz.at**. Reports are read by the Software & Research team and
 handled discreetly. Tell us what happened and what you would like to see done; we will not
 take action beyond what you are comfortable with unless someone's safety requires it.
 
@@ -50,4 +50,4 @@ Software & Research team.
 
 ---
 
-Questions about this Code of Conduct are welcome at **office@youngaileaderslinz.at**.
+Questions about this Code of Conduct are welcome at **team@youngaileaderslinz.at**.
