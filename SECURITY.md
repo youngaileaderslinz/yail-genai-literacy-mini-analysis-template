@@ -7,7 +7,7 @@ separately.
 
 ## Report an exposure immediately
 
-**Contact: office@youngaileaderslinz.at**
+**Contact: team@youngaileaderslinz.at**
 
 Write to us straight away if any of the following happens, or if you think it might have:
 
@@ -38,13 +38,13 @@ your name in connection with an incident you report.
 ## Problems with this repository
 
 For a broken link, an error in the documentation, or a mistake in the data dictionary,
-email **office@youngaileaderslinz.at**. These are not urgent and do not need to follow the
+email **team@youngaileaderslinz.at**. These are not urgent and do not need to follow the
 process above.
 
 ## Please do not
 
 - Open a public GitHub issue describing an exposure — that can make the problem worse
 - Include actual data rows, screenshots of the data, or personal information in your report
-- Attempt to test the security of Young AI Leaders systems or accounts
+- Attempt to test the security of Young AI Leaders Linz systems or accounts
 
 The full set of obligations attached to the dataset is in [DATA_USE.md](DATA_USE.md).

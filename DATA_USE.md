@@ -62,7 +62,7 @@ Your analysis, findings, figures, and generated outputs remain confidential. The
 
 ## 8. Incident reporting
 
-If the data is exposed accidentally — pushed to a public repository, included in a shared link, sent to the wrong recipient, or held on a lost or stolen device — inform us **immediately** at **office@youngaileaderslinz.at**. Prompt disclosure is treated as responsible handling, not as a failure.
+If the data is exposed accidentally — pushed to a public repository, included in a shared link, sent to the wrong recipient, or held on a lost or stolen device — inform us **immediately** at **team@youngaileaderslinz.at**. Prompt disclosure is treated as responsible handling, not as a failure.
 
 ## 9. Acknowledgement
 
